@@ -1,7 +1,8 @@
-# Celebal-task
+# Group name: Cloud-4        
 
-# terraform_azure_vm
+# Project name: Configure FTP Server and Apache Server on Virtual Machine using Terraform
 
+# Description: Self-descriptive
 
 To run Code - 
 
